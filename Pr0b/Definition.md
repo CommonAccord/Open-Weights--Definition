@@ -52,13 +52,15 @@ Optional.xlist=<ol start=10><li>{10.sec}<li>{11.sec}<li>{12.sec}</ol>
 
 All.xlist=<ol><li>{1.sec}</li><li>{2.sec}<li>{3.sec}<li>{4.sec}<li>{5.sec}<li>{6.sec}<li>{7.sec}<li>{8.sec}<li>{9.sec}<li>{10.sec}<li>{11.sec}<li>{12.sec}</ol>
 
-Mandatory.Sec={Ti}<br>{0.sec}{Mandatory.xlist}{FtNt.Sec}
+Mandatory.Sec=<span class=sec-ti>{Ti}</span><br>{0.sec}{Mandatory.xlist}{FtNt.sec}
 
-All.Sec={Ti}<br>{0.sec}{All.xlist}{FtNt.Sec}
+All.Sec=<span class=sec-ti>{Ti}</span><br>{0.sec}{All.xlist}{FtNt.sec}
 
-FtNt.=[G/Z/ol/s1]
+FtNt.=[G/Z/para/s1]
 
 =[G/Z/ol/s12]
+
+FtNt.Ti=Footnote
 
 FtNt.1.Xnum=<a class='xref' href='{!!!}FtNt.1.sec'>*</a>
 

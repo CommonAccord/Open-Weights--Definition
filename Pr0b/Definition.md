@@ -47,7 +47,7 @@ Optional.secs=<li>{Require.9.sec}</li><li>{Require.10.sec}</li><li>{Require.11.s
 
 FnNt.Ti=Footnotes
 
-FtNt.1.sec=<a class='xref' href='{!!!}FtNt.1.Xnum'>*</a> This element will be considered sufficient if it meets the requirements of the EU Artificial Intelligence Act, Annex IV(2)(d), or any similar local legislation that sets forth similar requirements. "where relevant, the data requirements in terms of datasheets describing the training methodologies and techniques and the training data sets used, including information about the provenance of those data sets, their scope and main characteristics; how the data was obtained and selected; labelling procedures (e.g. for supervised learning), data cleaning methodologies (e.g. outliers detection)"
+FtNt.1.sec=<a class='xref' href='{!!!}FtNt.1.Xnum'>*</a> This element will be considered sufficient if it meets the requirements of the <a href=i.php?v=s&f=G/EU/Artificial_Intelligence_Act/0.md>EU Artificial Intelligence Act</a>, <a href=i.php?v=d&f=G/EU/Artificial_Intelligence_Act/0.md&k=Annex.IV.Sec>Annex IV</a><a href=i.php?v=d&f=G/EU/Artificial_Intelligence_Act/0.md&k=Annex.IV.2.sec>(2)</a><a href=i.php?v=d&f=G/EU/Artificial_Intelligence_Act/0.md&k=Annex.IV.2.4.sec>(d)</a>, or any similar local legislation that sets forth similar requirements. "where relevant, the data requirements in terms of datasheets describing the training methodologies and techniques and the training data sets used, including information about the provenance of those data sets, their scope and main characteristics; how the data was obtained and selected; labelling procedures (e.g. for supervised learning), data cleaning methodologies (e.g. outliers detection)"
 
 Mandatory.Sec={Sec.Begin}<ol>{Mandatory.secs}</ol>{FtNt.Sec}
 
